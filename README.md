@@ -1,4 +1,4 @@
-# Laurel
+# Blue
 
 A landing page template.
 
